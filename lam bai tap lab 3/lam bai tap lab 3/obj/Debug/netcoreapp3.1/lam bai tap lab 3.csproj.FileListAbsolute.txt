@@ -1,0 +1,14 @@
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\bin\Debug\netcoreapp3.1\lam bai tap lab 3.exe
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\bin\Debug\netcoreapp3.1\lam bai tap lab 3.deps.json
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\bin\Debug\netcoreapp3.1\lam bai tap lab 3.runtimeconfig.json
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\bin\Debug\netcoreapp3.1\lam bai tap lab 3.runtimeconfig.dev.json
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\bin\Debug\netcoreapp3.1\lam bai tap lab 3.dll
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\bin\Debug\netcoreapp3.1\lam bai tap lab 3.pdb
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\obj\Debug\netcoreapp3.1\lam bai tap lab 3.csproj.AssemblyReference.cache
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\obj\Debug\netcoreapp3.1\lam bai tap lab 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\obj\Debug\netcoreapp3.1\lam bai tap lab 3.AssemblyInfoInputs.cache
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\obj\Debug\netcoreapp3.1\lam bai tap lab 3.AssemblyInfo.cs
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\obj\Debug\netcoreapp3.1\lam bai tap lab 3.csproj.CoreCompileInputs.cache
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\obj\Debug\netcoreapp3.1\lam bai tap lab 3.dll
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\obj\Debug\netcoreapp3.1\lam bai tap lab 3.pdb
+C:\Code\lam bai tap lab 3\lam bai tap lab 3\obj\Debug\netcoreapp3.1\lam bai tap lab 3.genruntimeconfig.cache

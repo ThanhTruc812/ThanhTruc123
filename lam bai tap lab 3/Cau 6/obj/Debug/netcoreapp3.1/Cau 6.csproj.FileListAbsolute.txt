@@ -1,0 +1,14 @@
+C:\Code\lam bai tap lab 3\Cau 6\bin\Debug\netcoreapp3.1\Cau 6.exe
+C:\Code\lam bai tap lab 3\Cau 6\bin\Debug\netcoreapp3.1\Cau 6.deps.json
+C:\Code\lam bai tap lab 3\Cau 6\bin\Debug\netcoreapp3.1\Cau 6.runtimeconfig.json
+C:\Code\lam bai tap lab 3\Cau 6\bin\Debug\netcoreapp3.1\Cau 6.runtimeconfig.dev.json
+C:\Code\lam bai tap lab 3\Cau 6\bin\Debug\netcoreapp3.1\Cau 6.dll
+C:\Code\lam bai tap lab 3\Cau 6\bin\Debug\netcoreapp3.1\Cau 6.pdb
+C:\Code\lam bai tap lab 3\Cau 6\obj\Debug\netcoreapp3.1\Cau 6.csproj.AssemblyReference.cache
+C:\Code\lam bai tap lab 3\Cau 6\obj\Debug\netcoreapp3.1\Cau 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\lam bai tap lab 3\Cau 6\obj\Debug\netcoreapp3.1\Cau 6.AssemblyInfoInputs.cache
+C:\Code\lam bai tap lab 3\Cau 6\obj\Debug\netcoreapp3.1\Cau 6.AssemblyInfo.cs
+C:\Code\lam bai tap lab 3\Cau 6\obj\Debug\netcoreapp3.1\Cau 6.csproj.CoreCompileInputs.cache
+C:\Code\lam bai tap lab 3\Cau 6\obj\Debug\netcoreapp3.1\Cau 6.dll
+C:\Code\lam bai tap lab 3\Cau 6\obj\Debug\netcoreapp3.1\Cau 6.pdb
+C:\Code\lam bai tap lab 3\Cau 6\obj\Debug\netcoreapp3.1\Cau 6.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Code\Bài tập lab 4\Bài tập lab 4\bin\Debug\netcoreapp3.1\Bài tập lab 4.exe
+C:\Code\Bài tập lab 4\Bài tập lab 4\bin\Debug\netcoreapp3.1\Bài tập lab 4.deps.json
+C:\Code\Bài tập lab 4\Bài tập lab 4\bin\Debug\netcoreapp3.1\Bài tập lab 4.runtimeconfig.json
+C:\Code\Bài tập lab 4\Bài tập lab 4\bin\Debug\netcoreapp3.1\Bài tập lab 4.runtimeconfig.dev.json
+C:\Code\Bài tập lab 4\Bài tập lab 4\bin\Debug\netcoreapp3.1\Bài tập lab 4.dll
+C:\Code\Bài tập lab 4\Bài tập lab 4\bin\Debug\netcoreapp3.1\Bài tập lab 4.pdb
+C:\Code\Bài tập lab 4\Bài tập lab 4\obj\Debug\netcoreapp3.1\Bài tập lab 4.csproj.AssemblyReference.cache
+C:\Code\Bài tập lab 4\Bài tập lab 4\obj\Debug\netcoreapp3.1\Bài tập lab 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Bài tập lab 4\Bài tập lab 4\obj\Debug\netcoreapp3.1\Bài tập lab 4.AssemblyInfoInputs.cache
+C:\Code\Bài tập lab 4\Bài tập lab 4\obj\Debug\netcoreapp3.1\Bài tập lab 4.AssemblyInfo.cs
+C:\Code\Bài tập lab 4\Bài tập lab 4\obj\Debug\netcoreapp3.1\Bài tập lab 4.csproj.CoreCompileInputs.cache
+C:\Code\Bài tập lab 4\Bài tập lab 4\obj\Debug\netcoreapp3.1\Bài tập lab 4.dll
+C:\Code\Bài tập lab 4\Bài tập lab 4\obj\Debug\netcoreapp3.1\Bài tập lab 4.pdb
+C:\Code\Bài tập lab 4\Bài tập lab 4\obj\Debug\netcoreapp3.1\Bài tập lab 4.genruntimeconfig.cache

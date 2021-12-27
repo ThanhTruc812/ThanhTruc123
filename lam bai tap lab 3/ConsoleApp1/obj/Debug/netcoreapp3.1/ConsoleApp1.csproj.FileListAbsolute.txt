@@ -1,0 +1,14 @@
+C:\Code\lam bai tap lab 3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Code\lam bai tap lab 3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Code\lam bai tap lab 3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Code\lam bai tap lab 3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Code\lam bai tap lab 3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Code\lam bai tap lab 3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Code\lam bai tap lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Code\lam bai tap lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\lam bai tap lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Code\lam bai tap lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Code\lam bai tap lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Code\lam bai tap lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Code\lam bai tap lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Code\lam bai tap lab 3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
